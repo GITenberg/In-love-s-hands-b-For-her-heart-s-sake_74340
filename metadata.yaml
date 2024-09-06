@@ -1,0 +1,31 @@
+_repo: In-love-s-hands-b-For-her-heart-s-sake_74340
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clay, Bertha M.
+    alias: Dey, Frederic Van Rensselaer
+    birthdate: 1865
+    deathdate: 1922
+    gutenberg_agent_id: '56274'
+    url: http://www.gutenberg.org/2009/agents/56274
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Van_Rensselaer_Dey
+description: ''
+gutenberg_issued: '2024-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74340'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:678982#?c=&m=&s=&cv=&xywh=-120%2C-697%2C2388%2C4354
+pgterms:marc905: 20220331173451clay
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bStreet & Smith, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'In love''s hands : $b For her heart''s sake'
+url: http://www.gutenberg.org/ebooks/74340
